@@ -8,6 +8,7 @@ set database password in file db/index.js
 
 Run following command in terminal to execute node js backend code
 > npm install 
+
 > npm run start
 
 Import Postman collection
